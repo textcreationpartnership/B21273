@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dissenters case. In relation to the bill of forfeitures, stated by way of objection and answer, and humbly offered to the favourable consideration of His Majesty, and both Houses of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21273</idno><idno type="EEBO-CITATION">99885398</idno>
+  <idno type="VID">201239</idno>
+  <idno type="EEBO-PROQUEST">2264213840</idno>
+  
+            <idno type="STC">Wing D1686</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[78*]</idno>
+            <idno type="STC">ESTC R222986</idno>
+            <idno type="PROQUEST">ocm99885398</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885398e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201239)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[101-102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dissenters case. In relation to the bill of forfeitures, stated by way of objection and answer, and humbly offered to the favourable consideration of His Majesty, and both Houses of Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; date of publication from Wing.</note>
+                  <note>Printed in double columns.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term type="topical_term">Forfeiture --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:201239:1"/>
+            <head>The Dissenters CASE. In Relation to the Bill of Forfeitures, Stated by way of <hi>Objection</hi> and <hi>An<g ref="char:EOLhyphen"/>swer,</hi> and Humbly offered to the Favourable Consideration of His M<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>jesty, and both Houses of Parliament.</head>
+            <p>THE Bill of Forfeitures that is now brought in<g ref="char:EOLhyphen"/>to the House of Commons, being Read the First Time, appears to be a Bill for this Purpose: That all Persons that were in any Office, or Offices, during the Two last Reigns, and did not qualifie themselves, by Receiving the Sacrament, according to the Ceremonies of the Church of <hi>England,</hi> and by taking the Oaths, according to the Statute; shall Forfeit the Sum of 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> for every Office; and that the same shall be Tryed, in a Summary way, by Commissioners to be appointed for that Purpose: With an Appeal, to the Quarter Sessions, in so many Daies. By this Bill it is manifest, that the Sub<g ref="char:EOLhyphen"/>ject is deprived of the benefit of the Laws, that were in be<g ref="char:EOLhyphen"/>ing, at the time, when the supposed Offence was commit<g ref="char:EOLhyphen"/>ted, and are condemned by a Law, <hi>ex post facto,</hi> to a new Tryal, in a Summary way, before Commissioners, which is the same thing, as my Lord <hi>Strafford</hi>'s Bill of Attainder; (whatever glosses may be put upon it;) for if the Subject be deprived of the Form of Trial, by those Laws that ought to determine the Matter, and by which they are able to make their Defence; and be condemned by a new Law, to a new Form of Tryal, by which they cannot make their Defence; What is this but a Conviction in Parliament, without a Tryal, or Hearing one Man in his own Defence? In that Bill of my Lord <hi>Strafford</hi>'s, it was Enacted, that the same should never be made use of, for a President, to Po<g ref="char:EOLhyphen"/>sterity; and yet that was in the Case of a single Person, a great Minister of State, who was above the ordinary Pro<g ref="char:EOLhyphen"/>ceedings of Law, and therefore had a fair Hearing in Par<g ref="char:EOLhyphen"/>liament; but here, behold, a Multitude are condemed, whose Faces are unknown, without Distinction, or Consi<g ref="char:EOLhyphen"/>deration of the particular Circumstances that may arise up<g ref="char:EOLhyphen"/>on a fair Trial; Persons of inferiour Station, that are Sub<g ref="char:EOLhyphen"/>ject to the ordinary Methods of Proceedings in <hi>Westminster-Hall;</hi> a Thing without President in any Government in the World; and therefore, a reasonable Man would think, that there could be no question, whether this Bill should pass into a Law or not; but yet particular Passions, against particular Men, and other unhappy Differences, have rai<g ref="char:EOLhyphen"/>sed some plausible Arguments, for Passing this Bill, which requires an Answer.</p>
+            <p>One Argument for passing the Bill, is this; <hi>viz. That the Papists, and Dissenters, are very ill Men, and not well af<g ref="char:EOLhyphen"/>fected to the present Government; and therefore it is very prudent to weaken such a Party, and take from them that Money, which they may otherwise make ill use of against the Government.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> The Conclusion is very reasonable, if the Pre<g ref="char:EOLhyphen"/>mises were true; but how do you prove the Premises upon Protestant Dissenters? Have they raised any Rebellion? Have they refused to give, or pay the Taxes to the Govern<g ref="char:EOLhyphen"/>ment? Did they not all most Zealously promote the In<g ref="char:EOLhyphen"/>terest of His Majesty, ever since this happy Revolution? Did not those in Offices obey als Commands for disarming Papists, securing disaffected Persons, and keeping the Coun<g ref="char:EOLhyphen"/>try in Pence and Quietness? Are the Protestant Dissenters oblige<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to Answer for the Papists? This is a strange Al<g ref="char:EOLhyphen"/>teration; but the Reason is plain, The People are natural<g ref="char:EOLhyphen"/>ly <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rse to Taxes, and when this Parliament have given as great Taxes as the last, then the People will be for chan<g ref="char:EOLhyphen"/>ging their Members again, and so the Name of <hi>Jacobites</hi> must go round, as the prevailing Party pleases to Order it; but His Majesty (they are sure) is very well satisfied and assured of their Loyalty; and if the Parliament please, they are ready to give any farther Demonstration of it that shall be required.</p>
+            <p>
+               <label>Objection 2d.</label>
+               <hi>But the Dissenters, hour well soever they have behaved themselves, must be content to be governed by Law; and if they have acted contrary to Law, it is not se<g ref="char:EOLhyphen"/>verity in the Parliament to put the Laws in Execution.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> True, if this were the Case; for they are con<g ref="char:EOLhyphen"/>tent to have the Laws put in Execution against them, in Relation to the Forfeitures; but this Bill is so far from that, that it takes from them the Benefit of those Laws, and hooks them in by a New Law.</p>
+            <p>
+               <label>Object. 3d.</label>
+               <hi>But this Act is made only to prevent the Com<g ref="char:EOLhyphen"/>mon Informer, who would not only recover these Forfeitures, but also bring the Party into several Incapacities, which are of grea<g ref="char:EOLhyphen"/>ter concern to them; so that by this Bill a Kindness is intended to the Protestant Dissenters; for here is a Pardon for the Incapa<g ref="char:EOLhyphen"/>cities, and the Forfeitures only raised.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> The Protestant Dissenters are much obliged to the Inventor of this Argument, no doubt he has a great Kindness for them: The Papists indeed are obliged to him, for all Papists Convict are lyable to both the Incapacities, and Forfeitures, and therefore this Bill does them a Kind<g ref="char:EOLhyphen"/>ness; but the Protestants deny that they are lyable to ei<g ref="char:EOLhyphen"/>ther, by the Laws of <hi>England,</hi> as they now stand, and therefore desire no such Kindness, but that they may stand and fall by the known Laws of the Land; and when they want a Favour, they will become Humble Suitors for it themselves.</p>
+            <p>
+               <label>Object. 4th.</label>
+               <hi>But some Money is wanting, is it not better that the King should have the Mony, than the Common In<g ref="char:EOLhyphen"/>former.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> Right, It is Ten Thousand times better but still that is not the Case, no Man opposes the vesting of all Legal Forfeitures in their Majesties, to be recovered ac<g ref="char:EOLhyphen"/>cording to those Laws, against which, the Offence was committed; but they humbly opposed a New Bill, that (in the consequence of it) doth condemn a number of Men, as guilty within those Laws, who in reality are not so, and the rather, for that the Execution of this Law is not left to His Majesty, into whose Hands, they dare readily com<g ref="char:EOLhyphen"/>mit both their Lives, and Estates; but appropriated as a Debt to the Navy, in which Case no Mercy can be ex<g ref="char:EOLhyphen"/>pected.</p>
+            <p>
+               <label>Obj.</label>
+               <hi>That it is fit in so great a Revolution, that some should be punished for their Offences.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> It's so, but how? If not accord<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Laws, against which they have offended; if the<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:201239:2"/> by Law, what need a new Law to Condemn them; if they are not guilty by Law, than why are they Con<g ref="char:EOLhyphen"/>demned?</p>
+            <p>
+               <label>Object.</label>
+               <hi>But these Protestant Dissenters are worse than Pa<g ref="char:EOLhyphen"/>pists, for they accepted of Commissions of the Peace when we were turned out.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> What then If they did a thing that displeased, is that a Criminal Offence, and a Sufficient Reason to convict an Offender by a new Law? Shall a Traytor and a Mur<g ref="char:EOLhyphen"/>derer have the benefit of making their defence, by the known Laws of the Land before the Offence Commited? And shall these Men be debarred thereof? But pray let us consider who had received the best Usage of late Days, the Papist or Dissenter? Was there no such thing as a violent Prosecution of Protestant Dissenters a little before? No Families ruined by Fines and Imprisonments meerly upon the account of Religion, without any Offence commited? And did not the Papists at that time enjoy all the Ease and Liberty imaginable; How were the Papists indulged in those Days, whilst the poor Protestants were the only Sufferers by those very Laws that were safely de<g ref="char:EOLhyphen"/>signed at first against Papists. What? Must the Prote<g ref="char:EOLhyphen"/>stants be supposed to be Stupid and Insensible? What reasonable Man can wonder that they should embrace Freedom after so great Oppressions? Tis well known that a Gentleman of that perswasion could not be quiet in this Country from the Solicitations of the poor Protestants at that time, who being newly delivered from violent Pro<g ref="char:EOLhyphen"/>secutions for their Religion, were over-joyed at that unex<g ref="char:EOLhyphen"/>pected Deliverance; and who could tell in the begining what was designed above? Self Preservation, is by the Law of Nature, which is above all other Laws; and if that were sufficient, and the only thing that could give a right to the Subject to be Active in this happy Resolution, it cannot leave the Protestants without a just excuse for what they did at that time: And if this be so, then it is reasonable that those that were at least the remote Cause of the Dissenters acting for their own Preservation; should now be the imediate Authors of their Punishments: But if this must be so, still the Dissenters cry out for common Justice, for a fair Tryal by the known Laws of the Land, or else this last Prosecution will be worse than the former, for then they had a fair Tryal, but now they have none; or if any, it is such a one as was not in being when the Of<g ref="char:EOLhyphen"/>fence was commited, but purposely created by a new Bill to bring those Persons to Punishment, who by Law are not now Punishable.</p>
+            <p>
+               <label>Object.</label>
+               <hi>But it was an Evil thing in the Dissenters to betray their Religion for Revenge, and to endeavour to bring in Popery.</hi>
+            </p>
+            <p>
+               <label>Answer</label> An evil thing indeed, if true, and its heartily wished that all such Men might be severely punished; but this Calumny is not believed by those that say it; for whatever some scandalous Persons, both of the Church, and amongst Dissenters, might have done, yet the greatest and best party of both, were equally resolved to oppose <hi>Popery:</hi> And therefore the late King would have found himself very much mistaken in his Measures for that pur<g ref="char:EOLhyphen"/>pose. The Gent. of that Perswasion, were indeed pre<g ref="char:EOLhyphen"/>vailed upon, for the Reasons aforesaid, to accept of Au<g ref="char:EOLhyphen"/>thority to preserve themselves, when they might safely do it; and yet they were advised they might safely do it, after the Judges of <hi>England</hi> had given such an Opi<g ref="char:EOLhyphen"/>nion: But yet they were all generally resolved against taking off the <hi>Test,</hi> and many of then, the <hi>Penal Laws</hi> also tho they had been so great Sufferers by them: So far were they from endeavouring to introduce <hi>Popery,</hi> or from betraying their <hi>Religion.</hi> But these Expressions are but the effects of unhappy Differences amongst our selves; and till those are removed, by a general Act of Oblivion, the Nation can never be serled in Peace and Prosperity.</p>
+            <p>
+               <label>Obj.</label>
+               <hi>That Moneys must be had some way or other, and there is no other way, at present, to raise it but by such a Tux as this.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> Then let such a Tax as this be made equally and proportionably, upon all manner of Offenders, <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that will do the King and Kingdom good, and prev<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> future Taxes upon us all; whereas now we are to pay F<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>feitures and Taxes both: And this being plainly desig<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> against a particular Party, will only raise more Dust tha<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it can lay, and so be of no use to the Publick.</p>
+            <p>
+               <label>Ob.</label>
+               <hi>That tho the Protestants (as the Case now happens) are not punishable by Law, yet the Parliament may punish them if they please; and what the Parliament does is not unjust.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> All Deference is paid to the power of Parlia<g ref="char:EOLhyphen"/>ments; but the reasonableness or unreasonableness of a Bill (before it be Actually passed into a Law) is ever al<g ref="char:EOLhyphen"/>lowed to be debated, both without as well as within the House, so as the same be done with due Submission to ou<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Superiors: And if reason be on the Protestant Dissenters side, they have some reason to hope that the Parliament will be so too; and it is hard if the Loosers shall not have the liberty to speak a little for themselves; what then shall we say? Is this Law Just? If it be, we are sure it is with out a President in all Histories or Ages of the World; no Government can produce the like. We read, indeed, that a whole City should have been saved if that Ten good Men had been found in it; but here we see a Multitude to be Destroyed, their Wives and Children Ruined because a few bad Men might be amongst them. The great Tra<g ref="char:EOLhyphen"/>gedy in the <hi>West,</hi> tho' there was no new Law made a<g ref="char:EOLhyphen"/>gainst them, was condemned by most Men of all Part<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>; because the Calamity was so general, and the Execution of it in cold Blood. But the Dissenters Case is worse, for a much greater number would, by this Bill, be condemned and ruined in cold Blood, so long after the Revolution, by a New Law, without a Tryal, by the known Laws of the Land. What then can be the effect of such severe Proceedings, but the same that hath alwaies been observed in this Nation? Its a Maxim, <hi>Nullum violentum est contin<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m.</hi> When the Dissenters was the prevailing Party, a<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>st things came to that pass, that they did not execu<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Power with that Moderation that became them; the<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Church Party became uppermost, and the Magistracy was in their hands, till their Moderation also was at an end. Then the Papists took their turn, and we see now they used their Authority, and what is become of them? After that the Dissenters again, were the prevailing Party, the last Parliament, till the Bill of <hi>Pains and Penalties;</hi> the Vote against Suirenders of Charters; &amp; such like extraordi<g ref="char:EOLhyphen"/>nary Proceedings prevailed amongst them. And now we see the Church Party uppermost again, &amp; so long as they act with Moderation, are like to continue so, but when that ceases, a Hermit that never saw a Military Weapon, nor pretends to any peculiar Revolutions, may fore-tell another Revolution; for it seems to be part of the unalterable De<g ref="char:EOLhyphen"/>cree of Providence, that no Government can subsist long without Mercy and Moderation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>M. G.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
